@@ -10,3 +10,16 @@ Este projeto foi desenvolvido para calcular a quantidade de adesivos necessária
 
 ## Como rodar o projeto
 1. Abra o site [aqui](https://github.com/carlusnz-dev/calculo_preco_deza)
+2. Coloque suas informações nos campos indicados
+3. Clique no botão "Calcular"
+4. O resultado será exibido na tela
+
+## Exemplo
+- Número de adesivos: 100
+- Tamanho x: 10
+- Tamanho y: 10
+Resultado: $$$
+
+## Autores
+- Carlos Alberto
+- Deza Produções
